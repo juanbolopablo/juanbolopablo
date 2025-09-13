@@ -30,10 +30,10 @@ A tech enthusiast do no listen to this cuz this is ai-generated haha im n00b, ex
   _Check out my favorite and most impactful repositories below!_
 
 - 📚 **Learning:**  
-  How Linux works and how toit it properly
+  How Linux works and how to use GNU/Linux distros properly
 
 - 🤝 **Collaborations:**  
-  Open to contributions, discussions, and building cool things together!
+  Open to discussions, knowledge and building cool things together!
 
 ---
 
